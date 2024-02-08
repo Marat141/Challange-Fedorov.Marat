@@ -2,11 +2,107 @@ body {
     background-color: black;
 }
 
-p, h1, h2, h3{
+p, h1, h2, h3, ul, li{
     color: white;
 }
 
+h1{
+    position: absolute;
+    top: 419px;
+    left: 336px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 29px;
+    letter-spacing: 0.365em;
+    text-align: center;
 
+}
+
+ul, li{
+    list-style-type: none;
+}
+
+.name{
+    position: absolute;
+    top: 244px;
+    left: 308.57px;
+    font-family: Montserrat;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 11px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.number_card{
+    position: absolute;
+    top: 255px;
+    left: 308.57px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.Geldig{
+    position: absolute;
+    top: 292px;
+    left: 308.57px;
+    font-family: Montserrat;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 11px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.validity_number{
+    position: absolute;
+    top: 304px;
+    left: 308.57px;
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 13px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.mark img{
+    position: absolute;
+    width: 50px;
+    height: 32px;
+    top: 174px;
+    left: 295.57px;
+}
+
+.logo img{
+    position: absolute;
+    width: 208px;
+    height: 206px;
+    top: 207px;
+    left: 436.57px;
+    opacity: 0.2;
+    filter: grayscale(100%);
+}
+
+.Meastro{
+    position: absolute;
+    top: 182px;
+    left: 350.57px;
+    width: 49px;
+    height: 15px;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
 
 main{
     position: relative;
