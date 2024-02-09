@@ -8,7 +8,7 @@ p, h1, h2, h3, ul, li{
 
 h1{
     position: absolute;
-    top: 419px;
+    top: 358px;
     left: 336px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 24px;
@@ -25,7 +25,7 @@ ul, li{
 
 .name{
     position: absolute;
-    top: 244px;
+    top: 187px;
     left: 308.57px;
     font-family: Montserrat;
     font-size: 9px;
@@ -37,7 +37,7 @@ ul, li{
 
 .number_card{
     position: absolute;
-    top: 255px;
+    top: 202px;
     left: 308.57px;
     font-family: Montserrat;
     font-size: 18px;
@@ -49,7 +49,7 @@ ul, li{
 
 .Geldig{
     position: absolute;
-    top: 292px;
+    top: 250px;
     left: 308.57px;
     font-family: Montserrat;
     font-size: 9px;
@@ -61,7 +61,7 @@ ul, li{
 
 .validity_number{
     position: absolute;
-    top: 304px;
+    top: 264px;
     left: 308.57px;
     font-family: Montserrat;
     font-size: 11px;
@@ -75,15 +75,15 @@ ul, li{
     position: absolute;
     width: 50px;
     height: 32px;
-    top: 174px;
+    top: 132px;
     left: 295.57px;
 }
 
 .logo img{
     position: absolute;
-    width: 208px;
-    height: 206px;
-    top: 207px;
+    width: 212px;
+    height: 239px;
+    top: 140px;
     left: 436.57px;
     opacity: 0.2;
     filter: grayscale(100%);
@@ -91,7 +91,7 @@ ul, li{
 
 .Meastro{
     position: absolute;
-    top: 182px;
+    top: 140px;
     left: 350.57px;
     width: 49px;
     height: 15px;
@@ -101,7 +101,6 @@ ul, li{
     line-height: 15px;
     letter-spacing: 0em;
     text-align: left;
-
 }
 
 main{
@@ -109,26 +108,28 @@ main{
 }
 
 .card{
-    background:url("https://s3-alpha-sig.figma.com/img/b458/cad8/b8c9256cde91451d398acf84d032fef5?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CLcN3XXNL-KYYLqlgML7UhTjkEb1DWSw25bW7JolmrU-5gTS1x5ovsi0uu8HWLdackfKLjTFtoI~Tez0vxT-FFaNeXf8a91-eURiz8kxEadqrNC8h6YiQOGPPpiN6MyF4zYb4e-dnVFrOr2xqpe7FUCPZomKrQEGA~ZDcj4rPx1tnxSQmzMvl9DkPZUP2d1fQnFDz5gHTngQk5Vx4DexgcyPwE8gRLzI54xMRvIDdihW5X9hZ3RzwPlpU6qXivo4eLXnuC-zNak0EFQ~8wr9oy4x0qKnq~Pp7wv8jU6fAHjO1owsdQ7vu0pbfMEU8fiGr9EQWtICbub-wbzQjnMzFw__") ;
-    width: 296px;
+    background: url(https://s3-alpha-sig.figma.com/img/b458/cad8/b8c9256…?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CLcN3XXNL-KYYLqlgML7UhTjkEb1DWSw25bW7JolmrU-5gTS1x5ovsi0uu8HWLdackfKLjTFtoI~Tez0vxT-FFaNeXf8a91-eURiz8kxEadqrNC8h6YiQOGPPpiN6MyF4zYb4e-dnVFrOr2xqpe7FUCPZomKrQEGA~ZDcj4rPx1tnxSQmzMvl9DkPZUP2d1fQnFDz5gHTngQk5Vx4DexgcyPwE8gRLzI54xMRvIDdihW5X9hZ3RzwPlpU6qXivo4eLXnuC-zNak0EFQ~8wr9oy4x0qKnq~Pp7wv8jU6fAHjO1owsdQ7vu0pbfMEU8fiGr9EQWtICbub-wbzQjnMzFw__);
     height: 173px;
+    width: 296px;
     position: absolute;
-    top: 161px;
+    top: 115px;
     left: 281.57px;
     border-radius: 24px;
     background: linear-gradient(112.48deg, rgba(255, 255, 255, 0.1) 6.31%, rgba(255, 255, 255, 0) 98.51%);
     box-shadow: 0px 4px 4px 0px #00000040;
     border: white solid;
+    background-color: #555;
+    opacity: 0.6;
 }
 
 
 .circle1 { 
-    position: absolute; 
+    position: absolute;
     width: 180px;
     height: 180px;
-    top: 41.91px;
+    top: 0.91px;
     left: 495.86px;
-    border-radius: 50%; 
+    border-radius: 50%;
     background-image: linear-gradient(197.43deg, #FFA800 -1.31%, rgba(250, 0, 255, 0) 109.89%, rgba(255, 168, 0, 0) 109.89%), linear-gradient(0deg, #5B4EF9, #5B4EF9);
 }
 
@@ -137,7 +138,7 @@ main{
     position: absolute;
     width: 114px;
     height: 113px;
-    top: 284.15px;
+    top: 237.15px;
     left: 223.15px;
     background-image: linear-gradient(197.43deg, #FFA800 -1.31%, rgba(250, 0, 255, 0) 109.89%, rgba(255, 168, 0, 0) 109.89%), linear-gradient(0deg, #5B4EF9, #5B4EF9);
     box-shadow: 0px 4px 4px 0px #00000040;
