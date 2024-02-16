@@ -81,14 +81,16 @@ ul, li{
 
 .logo {
     position: absolute;
-    width: 212px;
-    height: 230px;
-    top: 151px;
-    left: 436.57px;
+    width: 210px;
+    height: 127px;
+    top: 153px;
+    left: 359.57px;
     opacity: 0.2;
-    filter: grayscale(100%);
-    
 }
+
+
+
+
 
 
 /*/* ING_logo 1 
@@ -138,13 +140,9 @@ main{
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     backdrop-filter: blur(20px);
     border-radius: 24px;
-    border-style: inset;
-    border-color: white ;
-    /*border: 2px solid;
-    border-image-slice: 1;
-    border-width: 1px;
-    border-image-source: linear-gradient(to left, #ffffff, #000000);
-    border-radius: 24px;*/
+    border-style: solid solid none none;
+    border-color: gray;
+    
 }
 
 
@@ -180,3 +178,7 @@ main{
     font-weight: bolder;
     letter-spacing: 36.5;
 }
+
+
+
+
